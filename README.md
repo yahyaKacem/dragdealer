@@ -1,4 +1,4 @@
 dragdealer
 ==========
 
-dragdealer for bower
+dragdealer for bower Original code : [**dragdealer**](http://code.google.com/p/dragdealer)

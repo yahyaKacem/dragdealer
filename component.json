@@ -1,0 +1,6 @@
+{
+    "name":         "dragdealer",
+    "version":      "0.9.5",
+    "main":         ["dragdealer.js", "dragdealer.css"],
+    "dependencies": {}
+}
