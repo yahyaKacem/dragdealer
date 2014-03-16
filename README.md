@@ -1,6 +1,6 @@
 dragdealer
 ==========
 
-dragdealer for bower Original code: [**dragdealer**](http://code.google.com/p/dragdealer)
+dragdealer for bower Original code: [**dragdealer**](https://github.com/skidding)
 
-APIs and demos: [**code.ovidiu.ch/**](http://code.ovidiu.ch/dragdealer/)
+APIs and demos: [**code.ovidiu.ch/**](http://skidding.github.io/dragdealer)
